@@ -1,12 +1,6 @@
 import streamlit as st
 
-st.write("Hello")
-st.write("My first azure app")
-
-st.title("This is the app title")
-st.header("This is the header")
-st.markdown("This is the markdown")
-st.subheader("This is the subheader")
-st.caption("This is the caption")
-st.code("x = 2021")
-st.latex(r''' a+a r^1+a r^2+a r^3 ''')
+st.title("EMC2/ Cloud Module")
+st.header("App for testing AI APIs")
+st.sidebar.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F451928%2Fecole-hassania-des-travaux-publics-ehtp&psig=AOvVaw3L3T0dJH6yiCp1TPFZptaQ&ust=1734877216738000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjaq7OHuYoDFQAAAAAdAAAAABAE")
+st.sidebar.header("Cloud Computing")
